@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//frontend/src/App.vue=UTF-8
+encoding//frontend/src/components/HelloWorld.vue=UTF-8
+encoding//frontend/src/components/Test.vue=UTF-8
+encoding//frontend/src/components/admin/AdminList.vue=UTF-8
+encoding//frontend/src/components/admin/AdminWrite.vue=UTF-8
+encoding//frontend/src/components/front/board/List.vue=UTF-8
+encoding//frontend/src/components/front/board/Pagination.vue=UTF-8
+encoding//frontend/src/components/front/board/View.vue=UTF-8
+encoding//frontend/src/components/front/board/Write.vue=UTF-8
+encoding//frontend/src/components/vue/Vue_test1.vue=UTF-8

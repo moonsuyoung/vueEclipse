@@ -1,0 +1,14 @@
+mysql 게시판 테이블
+
+CREATE TABLE tb_board(
+	num INT(10) PRIMARY KEY auto_increment
+	, board_code VARCHAR(20)
+	, subject VARCHAR(300)
+	, cont text
+	, id VARCHAR(50)
+	, filename VARCHAR(200)
+	, ori_filename  VARCHAR(200)
+	, filesize INT(10)
+	, regdate datetime
+	, editdate DATETIME
+);
